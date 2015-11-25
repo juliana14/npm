@@ -1,0 +1,15 @@
+{
+  "name": "@juliana14/dev",
+  "version": "1.0.1",
+  "description": "first npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "juliana14",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": "https://github.com/juliana14/npm.git"
+}
